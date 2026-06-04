@@ -9,5 +9,3 @@ This GitHub is a record of the projects, experiments, mistakes, lessons, and ite
 I believe capability is built, not claimed.
 
 So for now, I focus on learning deeply, building consistently, and documenting the journey honestly.
-
-Learning deeply. Building consistently. Improving continuously.
