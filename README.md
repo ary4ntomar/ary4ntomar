@@ -10,4 +10,4 @@ I believe capability is built, not claimed.
 
 So for now, I focus on learning deeply, building consistently, and documenting the journey honestly.
 
-One step at a time.
+Learning deeply. Building consistently. Improving continuously.
