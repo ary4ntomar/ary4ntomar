@@ -1,16 +1,13 @@
-## Hi there 👋
+# Aryan Tomar
 
-<!--
-**ary4ntomar/ary4ntomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in becoming capable enough to build meaningful things.
 
-Here are some ideas to get you started:
+Technology is currently the vehicle for that pursuit.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub is a record of the projects, experiments, mistakes, lessons, and iterations that shape my understanding over time. Some work here is polished, some isn't. Both are valuable because both represent progress.
+
+I believe capability is built, not claimed.
+
+So for now, I focus on learning deeply, building consistently, and documenting the journey honestly.
+
+One step at a time.
